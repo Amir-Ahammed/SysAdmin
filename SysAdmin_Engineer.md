@@ -1,7 +1,7 @@
 # Jump To 
-1. [SysAdmin Job Responsibility](#sysadmin_job_responsibility)
-2. [Training & Certifications](#training_&_certifications)
-3. [Desired Job Titles](#desired_job_titles)
+* [SysAdmin Job Responsibility](#sysadmin_job_responsibility)
+* [Training & Certifications](#training_&_certifications)
+* [Desired Job Titles](#desired_job_titles)
 
 # SysAdmin Job Responsibility: <a name="sysadmin_job_responsibility"></a>
 
