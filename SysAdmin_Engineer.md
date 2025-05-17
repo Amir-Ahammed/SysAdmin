@@ -73,23 +73,34 @@
     - Labs: Microsoft Learn Sandbox or Azure Free Account
     
     
-## Microsoft Certified: Windows Server Hybrid Administrator Associate (AZ-800) | Only if you need on-prem or hybrid AD experience  
-  * **Duration**: 6–8 weeks
-  * **Goal**: Build infrastructure skills for Azure environments
+## AZ-800 – Administering Windows Server Hybrid Core Infrastructure
+  * **Duration**: 5–7 weeks
+  * **Goal**: Learn to manage on-premises, hybrid, and cloud Windows Server infrastructure
   * **Topics:**
-    - Azure VMs, networking, storage accounts
-    - RBAC in Azure, resource monitoring
-    - Azure AD integration, load balancing, VPNs
-    - ARM templates & resource groups   
+    - Windows Server installation, storage, and AD DS infrastructure
+    - Manage Windows Server in a hybrid environment
+    - Implement and manage on-prem AD and hybrid identity using Azure AD Connect
+    - Configure DNS, DHCP, Group Policy, file shares, and security
+    - Monitor and troubleshoot Windows Server environments
   * **Resources:**
-    - Udemy: [John Christopher](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
-    - Microsoft: [Microsoft Learn – AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification)
-    - YouTube: *FreeCodeCamp – AZ-104 Full Course* 
-    - Labs: Microsoft Learn Sandbox or Azure Free Account
+    - Udemy: [John Christopher](https://www.udemy.com/topic/microsoft-az-800/?srsltid=AfmBOorFVJDoRWig_Vae3HHnXau4oa45IN6lHO10zdTEnBL95Z6xxcCW)
+    - Microsoft: [Microsoft Learn – AZ-800](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-800/)
+    - YouTube: Adam Marczak, Andy Malone, or John Savill
+    - Practice Tests: MeasureUp, ExamTopics
 
-## Microsoft 365 Certified: Administrator Expert (MS-102) | Optional capstone if you want to manage full Microsoft 365 environment
-
-# 
+## MS-102 – Microsoft 365 Administrator Expert
+  * **Duration**: 6–8 weeks
+  * **Goal**: Administer Microsoft 365 tenant, security, compliance, and core services
+  * **Topics:**
+    - Manage identity and access (Entra ID roles and access)
+    - Configure security and threat management (Defender, DLP, eDiscovery)
+    - Manage Microsoft Exchange, Teams, SharePoint, and OneDrive
+    - Microsoft 365 tenant configuration and governance
+  * **Resources:**
+    - Udemy: [John Christopher](https://www.udemy.com/topic/microsoft-ms-102/?srsltid=AfmBOorCnmdi0n06EJv41cwmLhDe_YK9ZG_rgNb7-ad9WpMP6cOa9R90)
+    - Microsoft: [Microsoft Learn – MS-102](https://learn.microsoft.com/en-us/credentials/certifications/m365-administrator-expert/)
+    - YouTube: Microsoft Mechanics, Andy Malone, or AllThingsTechIE
+    - Practice Tests: MeasureUp, Whizlabs
 
 # Desired Job Titles:
 
