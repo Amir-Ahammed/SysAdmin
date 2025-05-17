@@ -1,11 +1,9 @@
+# Jump To 
+1. [SysAdmin Job Responsibility](#sysadmin_job_responsibility)
+2. [Training & Certifications](#training_&_certifications)
+3. [Desired Job Titles](#desired_job_titles)
 
-[Training & Certifications](#training_&_certifications)
-
-
-
-# SysAdmin Job Responsibility:
-
-
+# SysAdmin Job Responsibility: <a name="sysadmin_job_responsibility"></a>
 
 ## Globally
 
@@ -111,7 +109,7 @@
     - YouTube: Microsoft Mechanics, Andy Malone, or AllThingsTechIE
     - Practice Tests: MeasureUp, Whizlabs
 
-# Desired Job Titles:
+# Desired Job Titles: <a name="desired_job_titles"></a>
 
 * Systems Administrator
 * Systems Engineer 
