@@ -40,9 +40,6 @@
     - Microsoft: [Microsoft Learn – MD-102](https://learn.microsoft.com/en-us/credentials/certifications/modern-desktop/?practice-assessment-type=certification)
     - YouTube: John Savill's Technical Training or Andro Dunos
     - Practice tests: Whizlabs, MeasureUp  
-
-
-  
      
 ## SC-300 – Identity and Access Administrator Associate  
   * **Duration**: 5–7 weeks 
@@ -58,7 +55,7 @@
     - Microsoft Security video series
     - Practice tests: ExamTopics, MeasureUp 
 
-## AZ-104 – Azure Administrator Associate  
+## [AZ-104 – Azure Administrator Associate](https://github.com/Amir-Ahammed/AZ-104-Azure-Administrator-Associate)
   * **Duration**: 6–8 weeks
   * **Goal**: Build infrastructure skills for Azure environments
   * **Topics:**
