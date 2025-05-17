@@ -70,7 +70,7 @@
     - Labs: Microsoft Learn Sandbox or Azure Free Account
     
     
-## AZ-800 – Administering Windows Server Hybrid Core Infrastructure
+## [AZ-800 – Administering Windows Server Hybrid Core Infrastructure](https://github.com/Amir-Ahammed/AZ-800-Administering-Windows-Server-Hybrid-Core-Infrastructure)
   * **Duration**: 5–7 weeks
   * **Goal**: Learn to manage on-premises, hybrid, and cloud Windows Server infrastructure
   * **Topics:**
