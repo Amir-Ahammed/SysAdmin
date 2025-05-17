@@ -59,7 +59,7 @@
 - Microsoft Security video series  
 - Practice tests: ExamTopics, MeasureUp
 
-* **AZ-104** – Azure Administrator Associate  
+## AZ-104 – Azure Administrator Associate  
   **Duration**: 6–8 weeks  
   **Goal**: Build infrastructure skills for Azure environments
 
@@ -75,8 +75,10 @@
 - Labs: Microsoft Learn Sandbox or Azure Free Account  
     
     
-* Microsoft Certified: Windows Server Hybrid Administrator Associate (AZ-800) | Only if you need on-prem or hybrid AD experience  
-* Microsoft 365 Certified: Administrator Expert (MS-102) | Optional capstone if you want to manage full Microsoft 365 environment
+## Microsoft Certified: Windows Server Hybrid Administrator Associate (AZ-800) | Only if you need on-prem or hybrid AD experience  
+
+
+## Microsoft 365 Certified: Administrator Expert (MS-102) | Optional capstone if you want to manage full Microsoft 365 environment
 
 # 
 
