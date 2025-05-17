@@ -1,4 +1,11 @@
+
+[Training & Certifications](#training_&_certifications)
+
+
+
 # SysAdmin Job Responsibility:
+
+
 
 ## Globally
 
@@ -25,7 +32,7 @@
 * **VMware Virtualization:** Administer VMware environments, including configuring and maintaining virtual machines (VMs), monitoring system performance, and optimizing resource allocation to support organizational workloads and enhance operational efficiency.  
 * **MDM Tool Administration:** Manage device deployment and security for Mac and Windows environments using Jamf and Endpoint Central. Responsibilities include device provisioning, policy enforcement, software distribution, and system monitoring to maintain endpoint security and compliance.
 
-#  Training & Certifications:
+#  Training & Certifications: <a name="training_&_certifications"></a>
 
 ## [MD-102 – Endpoint Administrator Associate](https://github.com/Amir-Ahammed/MD-102-Endpoint-Administrator-Associate)  
   * **Duration**: 4–6 weeks 
