@@ -27,7 +27,7 @@
 
 #  Certifications:
 
-## MD-102 – Endpoint Administrator Associate  
+## [MD-102 – Endpoint Administrator Associate](https://github.com/Amir-Ahammed/Microsoft-365-Certified-Endpoint-Administrator-Associate)  
   * **Duration**: 4–6 weeks 
   * **Goal**: Understand Intune, Windows deployment, and policy management
   * **Topics:**
