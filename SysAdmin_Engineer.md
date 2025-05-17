@@ -28,7 +28,7 @@
 #  Certifications:
 
 ## MD-102 – Endpoint Administrator Associate  
-  * **Duration**: 4–6 weeks  
+  * **Duration**: 4–6 weeks 
   * **Goal**: Understand Intune, Windows deployment, and policy management
   * **Topics:**
     - Device enrollment (Windows, macOS, mobile)
@@ -45,19 +45,18 @@
   
      
 ## SC-300 – Identity and Access Administrator Associate  
-  **Duration**: 5–7 weeks  
-  **Goal**: Master Azure AD (Entra ID), identity protection, RBAC, and SSO
-
-  **Topics:**  
-  	\- Azure AD users, groups, and roles  
-  	\- Conditional Access, MFA, Identity Protection  
-  	\- Enterprise applications, app registrations  
-  	\- Azure AD Connect & hybrid identity  
-    
-  **Resources:**  
-- [Microsoft Learn – SC-300](https://learn.microsoft.com/en-us/certifications/exams/sc-300/)  
-- Microsoft Security video series  
-- Practice tests: ExamTopics, MeasureUp
+  * **Duration**: 5–7 weeks 
+  * **Goal**: Master Azure AD (Entra ID), identity protection, RBAC, and SSO
+  * **Topics:**
+    - Azure AD users, groups, and roles
+    - Conditional Access, MFA, Identity Protection
+    - Enterprise applications, app registrations
+    - Azure AD Connect & hybrid identity   
+  * **Resources:**
+    - Udemy: [John Christopher](https://milestone.udemy.com/course/sc-300-course-microsoft-identity-and-access-administrator/)
+    - Microsoft: [Microsoft Learn – SC-300](https://learn.microsoft.com/en-us/certifications/exams/sc-300/)
+    - Microsoft Security video series
+    - Practice tests: ExamTopics, MeasureUp 
 
 ## AZ-104 – Azure Administrator Associate  
   **Duration**: 6–8 weeks  
