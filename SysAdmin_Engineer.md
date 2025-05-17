@@ -53,7 +53,7 @@
     - Enterprise applications, app registrations
     - Azure AD Connect & hybrid identity   
   * **Resources:**
-    - Udemy: [John Christopher](https://milestone.udemy.com/course/sc-300-course-microsoft-identity-and-access-administrator/)
+    - Udemy: [John Christopher](https://www.udemy.com/course/sc-300-course-microsoft-identity-and-access-administrator/?couponCode=CP130525)
     - Microsoft: [Microsoft Learn – SC-300](https://learn.microsoft.com/en-us/certifications/exams/sc-300/)
     - Microsoft Security video series
     - Practice tests: ExamTopics, MeasureUp 
@@ -74,7 +74,18 @@
     
     
 ## Microsoft Certified: Windows Server Hybrid Administrator Associate (AZ-800) | Only if you need on-prem or hybrid AD experience  
-
+  * **Duration**: 6–8 weeks
+  * **Goal**: Build infrastructure skills for Azure environments
+  * **Topics:**
+    - Azure VMs, networking, storage accounts
+    - RBAC in Azure, resource monitoring
+    - Azure AD integration, load balancing, VPNs
+    - ARM templates & resource groups   
+  * **Resources:**
+    - Udemy: [John Christopher](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
+    - Microsoft: [Microsoft Learn – AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification)
+    - YouTube: *FreeCodeCamp – AZ-104 Full Course* 
+    - Labs: Microsoft Learn Sandbox or Azure Free Account
 
 ## Microsoft 365 Certified: Administrator Expert (MS-102) | Optional capstone if you want to manage full Microsoft 365 environment
 
