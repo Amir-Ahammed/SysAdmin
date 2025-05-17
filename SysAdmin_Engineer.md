@@ -27,20 +27,21 @@
 
 #  Certifications:
 
-* **MD-102** – Endpoint Administrator Associate  
-  **Duration**: 4–6 weeks  
-  **Goal**: Understand Intune, Windows deployment, and policy management
+**MD-102** – Endpoint Administrator Associate  
+  * **Duration**: 4–6 weeks  
+  * **Goal**: Understand Intune, Windows deployment, and policy management
+  * **Topics:**
+    - Device enrollment (Windows, macOS, mobile)
+    - Intune MDM/MAM
+    - Configuration profiles, compliance & app policies
+    - Autopilot, provisioning, Windows update rings   
+  * **Resources:**
+    - Udemy: [John Christopher](https://www.udemy.com/course/md-100windows10course/)
+    - YouTube: John Savill's Technical Training or Andro Dunos
+    - Practice tests: Whizlabs, MeasureUp  
 
-  **Topics:**  
-  	\- Device enrollment (Windows, macOS, mobile)  
-  	\- Intune MDM/MAM  
-  	\- Configuration profiles, compliance & app policies  
-  	\- Autopilot, provisioning, Windows update rings  
-    
-  **Resources:**  
-- [Microsoft Learn – MD-102](https://learn.microsoft.com/en-us/training/courses/md-102/)  
-- YouTube: John Savill's Technical Training or Andro Dunos  
-- Practice tests: Whizlabs, MeasureUp  
+
+  
      
 * **SC-300** – Identity and Access Administrator Associate  
   **Duration**: 5–7 weeks  
