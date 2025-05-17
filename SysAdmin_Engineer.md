@@ -85,7 +85,7 @@
     - YouTube: Adam Marczak, Andy Malone, or John Savill
     - Practice Tests: MeasureUp, ExamTopics
 
-## MS-102 – Microsoft 365 Administrator Expert
+## [MS-102 – Microsoft 365 Administrator Expert](https://github.com/Amir-Ahammed/MS-102-Microsoft-365-Administrator-Expert)
   * **Duration**: 6–8 weeks
   * **Goal**: Administer Microsoft 365 tenant, security, compliance, and core services
   * **Topics:**
