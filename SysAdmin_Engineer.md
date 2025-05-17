@@ -41,7 +41,7 @@
     - YouTube: John Savill's Technical Training or Andro Dunos
     - Practice tests: Whizlabs, MeasureUp  
      
-## SC-300 – Identity and Access Administrator Associate  
+## [SC-300 – Identity and Access Administrator Associate](https://github.com/Amir-Ahammed/SC-300-Identity-and-Access-Administrator-Associate)  
   * **Duration**: 5–7 weeks 
   * **Goal**: Master Azure AD (Entra ID), identity protection, RBAC, and SSO
   * **Topics:**
