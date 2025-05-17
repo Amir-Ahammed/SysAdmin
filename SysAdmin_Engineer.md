@@ -38,6 +38,7 @@
   * **Resources:**
     - Udemy: [John Christopher](https://www.udemy.com/course/md-100windows10course/)
     - Microsoft: [Microsoft Learn – MD-102](https://learn.microsoft.com/en-us/credentials/certifications/modern-desktop/?practice-assessment-type=certification)
+    - Microsoft: [Study guide for Exam MD-102](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/md-102)
     - YouTube: John Savill's Technical Training or Andro Dunos
     - Practice tests: Whizlabs, MeasureUp  
      
@@ -52,6 +53,7 @@
   * **Resources:**
     - Udemy: [John Christopher](https://www.udemy.com/course/sc-300-course-microsoft-identity-and-access-administrator/?couponCode=CP130525)
     - Microsoft: [Microsoft Learn – SC-300](https://learn.microsoft.com/en-us/certifications/exams/sc-300/)
+    - Microsoft: [Study guide for Exam SC-300](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-300)
     - Microsoft Security video series
     - Practice tests: ExamTopics, MeasureUp 
 
@@ -66,6 +68,7 @@
   * **Resources:**
     - Udemy: [John Christopher](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
     - Microsoft: [Microsoft Learn – AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification)
+    - Microsoft: [Study guide for Exam AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104)
     - YouTube: *FreeCodeCamp – AZ-104 Full Course* 
     - Labs: Microsoft Learn Sandbox or Azure Free Account
     
@@ -81,7 +84,8 @@
     - Monitor and troubleshoot Windows Server environments
   * **Resources:**
     - Udemy: [John Christopher](https://www.udemy.com/topic/microsoft-az-800/?srsltid=AfmBOorFVJDoRWig_Vae3HHnXau4oa45IN6lHO10zdTEnBL95Z6xxcCW)
-    - Microsoft: [Microsoft Learn – AZ-800](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-800/)
+    - Microsift: [Microsoft Learn – AZ-800](https://learn.microsoft.com/en-us/credentials/certifications/windows-server-hybrid-administrator/)
+    - Microsoft: [Study guide for Exam AZ-800](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-800)
     - YouTube: Adam Marczak, Andy Malone, or John Savill
     - Practice Tests: MeasureUp, ExamTopics
 
@@ -96,6 +100,7 @@
   * **Resources:**
     - Udemy: [John Christopher](https://www.udemy.com/topic/microsoft-ms-102/?srsltid=AfmBOorCnmdi0n06EJv41cwmLhDe_YK9ZG_rgNb7-ad9WpMP6cOa9R90)
     - Microsoft: [Microsoft Learn – MS-102](https://learn.microsoft.com/en-us/credentials/certifications/m365-administrator-expert/)
+    - Microsoft: [Study guide for Exam Ms-102](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-102)
     - YouTube: Microsoft Mechanics, Andy Malone, or AllThingsTechIE
     - Practice Tests: MeasureUp, Whizlabs
 
