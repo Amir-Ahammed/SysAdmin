@@ -1,4 +1,4 @@
-# SysAdmin Job responsibility:
+# SysAdmin Job Responsibility:
 
 ## Globally
 
