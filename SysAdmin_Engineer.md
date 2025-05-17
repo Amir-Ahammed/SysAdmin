@@ -59,19 +59,18 @@
     - Practice tests: ExamTopics, MeasureUp 
 
 ## AZ-104 – Azure Administrator Associate  
-  **Duration**: 6–8 weeks  
-  **Goal**: Build infrastructure skills for Azure environments
-
-  **Topics:**  
-  	\- Azure VMs, networking, storage accounts  
-  	\- RBAC in Azure, resource monitoring  
-  	\- Azure AD integration, load balancing, VPNs  
-  	\- ARM templates & resource groups  
-    
-  **Resources:**  
-- [Microsoft Learn – AZ-104](https://learn.microsoft.com/en-us/training/paths/az-104-administrator/)  
-- YouTube: *FreeCodeCamp – AZ-104 Full Course*  
-- Labs: Microsoft Learn Sandbox or Azure Free Account  
+  * **Duration**: 6–8 weeks
+  * **Goal**: Build infrastructure skills for Azure environments
+  * **Topics:**
+    - Azure VMs, networking, storage accounts
+    - RBAC in Azure, resource monitoring
+    - Azure AD integration, load balancing, VPNs
+    - ARM templates & resource groups   
+  * **Resources:**
+    - Udemy: [John Christopher](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
+    - Microsoft: [Microsoft Learn – AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification)
+    - YouTube: *FreeCodeCamp – AZ-104 Full Course* 
+    - Labs: Microsoft Learn Sandbox or Azure Free Account
     
     
 ## Microsoft Certified: Windows Server Hybrid Administrator Associate (AZ-800) | Only if you need on-prem or hybrid AD experience  
