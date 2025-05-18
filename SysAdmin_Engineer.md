@@ -109,6 +109,22 @@
     - YouTube: Microsoft Mechanics, Andy Malone, or AllThingsTechIE
     - Practice Tests: MeasureUp, Whizlabs
 
+## [Associate Google Workspace Administrator](https://cloud.google.com/certification/workspace-administrator)
+ * **Duration**: 4–6 weeks
+ * **Goal**: Manage and secure Google Workspace users, services, and settings for efficient collaboration
+ * **Topics:**
+   - Manage users, groups, and organizational units (OUs)
+   - Configure access and security settings (2SV, SSO, trusted apps)
+   - Monitor and manage Google Workspace services (Gmail, Drive, Meet, Calendar)
+   - Configure and manage domain settings, routing, and compliance tools
+   - Use the Admin console and Google Workspace CLI for automation
+ * **Resources:**
+   - Google: [Certification Guide – Workspace Admin](https://cloud.google.com/certification/workspace-administrator)
+   - Google: [Google Workspace Admin Help Center](https://support.google.com/a/)
+   - Coursera: [Google Workspace Admin Fundamentals](https://www.coursera.org/learn/manage-google-workspace)
+   - YouTube: Google Workspace YouTube Channel, Saas with Servo, Steve Larsen
+   - Practice Tests: Udemy, Whizlabs, SkillCertPro
+
 # Desired Job Titles: <a name="desired_job_titles"></a>
 
 * Systems Administrator
