@@ -61,22 +61,6 @@
     - Microsoft: [Study guide for Exam SC-300](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-300)
     - Microsoft Security video series
     - Practice tests: ExamTopics, MeasureUp 
-
-## [AZ-104 – Azure Administrator Associate](https://github.com/Amir-Ahammed/AZ-104-Azure-Administrator-Associate)
-  * **Duration**: 6–8 weeks
-  * **Goal**: Build infrastructure skills for Azure environments
-  * **Topics:**
-    - Azure VMs, networking, storage accounts
-    - RBAC in Azure, resource monitoring
-    - Azure AD integration, load balancing, VPNs
-    - ARM templates & resource groups   
-  * **Resources:**
-    - Udemy: [John Christopher](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
-    - Microsoft: [Microsoft Learn – AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification)
-    - Microsoft: [Study guide for Exam AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104)
-    - YouTube: *FreeCodeCamp – AZ-104 Full Course* 
-    - Labs: Microsoft Learn Sandbox or Azure Free Account
-    
     
 ## [AZ-800 – Administering Windows Server Hybrid Core Infrastructure](https://github.com/Amir-Ahammed/AZ-800-Administering-Windows-Server-Hybrid-Core-Infrastructure)
   * **Duration**: 5–7 weeks
@@ -93,6 +77,21 @@
     - Microsoft: [Study guide for Exam AZ-800](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-800)
     - YouTube: Adam Marczak, Andy Malone, or John Savill
     - Practice Tests: MeasureUp, ExamTopics
+
+## [AZ-104 – Azure Administrator Associate](https://github.com/Amir-Ahammed/AZ-104-Azure-Administrator-Associate)
+  * **Duration**: 6–8 weeks
+  * **Goal**: Build infrastructure skills for Azure environments
+  * **Topics:**
+    - Azure VMs, networking, storage accounts
+    - RBAC in Azure, resource monitoring
+    - Azure AD integration, load balancing, VPNs
+    - ARM templates & resource groups   
+  * **Resources:**
+    - Udemy: [John Christopher](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
+    - Microsoft: [Microsoft Learn – AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification)
+    - Microsoft: [Study guide for Exam AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104)
+    - YouTube: *FreeCodeCamp – AZ-104 Full Course* 
+    - Labs: Microsoft Learn Sandbox or Azure Free Account
 
 ## [MS-102 – Microsoft 365 Administrator Expert](https://github.com/Amir-Ahammed/MS-102-Microsoft-365-Administrator-Expert)
   * **Duration**: 6–8 weeks
