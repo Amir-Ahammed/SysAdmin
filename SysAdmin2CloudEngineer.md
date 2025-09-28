@@ -272,6 +272,25 @@
   - Tutorials Dojo practice exams  
   - AWS Free Tier labs  
 
+## #[AWS Certified SysOps Administrator – Associate](https://aws.amazon.com/certification/certified-sysops-administrator-associate/)
+* **Duration**: 8-10 weeks
+* **Goal**: Gain practical knowledge in deploying, managing, and operating scalable, highly available, and fault-tolerant systems on AWS.
+* **Topics:**
+  - Monitoring, metrics, and reporting with CloudWatch
+  - Deployment, provisioning, and automation (CloudFormation, OpsWorks, Elastic Beanstalk)
+  - Managing EC2 instances, EBS, and networking
+  - High availability, scaling, and load balancing
+  - Backup, disaster recovery, and data lifecycle management
+  - Security and compliance (IAM, VPC, security groups)
+  - Logging, CloudTrail, and monitoring best practices
+  - Troubleshooting and incident response on AWS
+* **Resources:**
+  - AWS Training: [Official Certification Page](https://aws.amazon.com/certification/certified-sysops-administrator-associate/)
+  - Udemy: Various SysOps Administrator courses
+  - Tutorials Dojo: Practice exams
+  - AWS Free Tier labs
+
+
 ---
 
 # Desired Job Titles: <a name="desired_job_titles"></a>
