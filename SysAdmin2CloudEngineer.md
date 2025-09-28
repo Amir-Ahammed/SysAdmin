@@ -95,7 +95,7 @@
 
 #  Training & Certifications: <a name="training_&_certifications"></a>
 
-## [MD-102 – Endpoint Administrator Associate](https://github.com/Amir-Ahammed/MD-102-Endpoint-Administrator-Associate)  
+## #[MD-102 – Endpoint Administrator Associate](https://github.com/Amir-Ahammed/MD-102-Endpoint-Administrator-Associate)  
   * **Duration**: 4–6 weeks 
   * **Goal**: Understand Intune, Windows deployment, and policy management
   * **Topics:**
@@ -110,7 +110,7 @@
     - YouTube: John Savill's Technical Training or Andro Dunos
     - Practice tests: Whizlabs, MeasureUp  
      
-## [SC-300 – Identity and Access Administrator Associate](https://github.com/Amir-Ahammed/SC-300-Identity-and-Access-Administrator-Associate)  
+## #[SC-300 – Identity and Access Administrator Associate](https://github.com/Amir-Ahammed/SC-300-Identity-and-Access-Administrator-Associate)  
   * **Duration**: 5–7 weeks 
   * **Goal**: Master Azure AD (Entra ID), identity protection, RBAC, and SSO
   * **Topics:**
@@ -125,7 +125,7 @@
     - Microsoft Security video series
     - Practice tests: ExamTopics, MeasureUp 
     
-## [AZ-104 – Azure Administrator Associate](https://github.com/Amir-Ahammed/AZ-104-Azure-Administrator-Associate)
+## #[AZ-104 – Azure Administrator Associate](https://github.com/Amir-Ahammed/AZ-104-Azure-Administrator-Associate)
   * **Duration**: 6–8 weeks
   * **Goal**: Build infrastructure skills for Azure environments
   * **Topics:**
@@ -140,7 +140,7 @@
     - YouTube: *FreeCodeCamp – AZ-104 Full Course* 
     - Labs: Microsoft Learn Sandbox or Azure Free Account
 
-## [AZ-800 – Administering Windows Server Hybrid Core Infrastructure](https://github.com/Amir-Ahammed/AZ-800-Administering-Windows-Server-Hybrid-Core-Infrastructure)
+## #[AZ-800 – Administering Windows Server Hybrid Core Infrastructure](https://github.com/Amir-Ahammed/AZ-800-Administering-Windows-Server-Hybrid-Core-Infrastructure)
   * **Duration**: 5–7 weeks
   * **Goal**: Learn to manage on-premises, hybrid, and cloud Windows Server infrastructure
   * **Topics:**
@@ -156,7 +156,7 @@
     - YouTube: Adam Marczak, Andy Malone, or John Savill
     - Practice Tests: MeasureUp, ExamTopics
 
-## [MS-102 – Microsoft 365 Administrator Expert](https://github.com/Amir-Ahammed/MS-102-Microsoft-365-Administrator-Expert) (Can be Skipped)
+## #[MS-102 – Microsoft 365 Administrator Expert](https://github.com/Amir-Ahammed/MS-102-Microsoft-365-Administrator-Expert) (Can be Skipped)
   * **Duration**: 6–8 weeks
   * **Goal**: Administer Microsoft 365 tenant, security, compliance, and core services
   * **Topics:**
@@ -171,7 +171,23 @@
     - YouTube: Microsoft Mechanics, Andy Malone, or AllThingsTechIE
     - Practice Tests: MeasureUp, Whizlabs
 
-## [RHCSA – Red Hat Certified System Administrator](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam)
+## #[Associate Google Workspace Administrator](https://cloud.google.com/certification/workspace-administrator) (Can be Skipped)
+  * **Duration**: 4–6 weeks
+ * **Goal**: Manage and secure Google Workspace users, services, and settings for efficient collaboration
+ * **Topics:**
+   - Manage users, groups, and organizational units (OUs)
+   - Configure access and security settings (2SV, SSO, trusted apps)
+   - Monitor and manage Google Workspace services (Gmail, Drive, Meet, Calendar)
+   - Configure and manage domain settings, routing, and compliance tools
+   - Use the Admin console and Google Workspace CLI for automation
+ * **Resources:**
+   - Google: [Certification Guide – Workspace Admin](https://cloud.google.com/certification/workspace-administrator)
+   - Google: [Google Workspace Admin Help Center](https://support.google.com/a/)
+   - Coursera: [Google Workspace Admin Fundamentals](https://www.coursera.org/learn/manage-google-workspace)
+   - YouTube: Google Workspace YouTube Channel, Saas with Servo, Steve Larsen
+   - Practice Tests: Udemy, Whizlabs, SkillCertPro
+
+## #[RHCSA – Red Hat Certified System Administrator](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam)
 * **Duration**: 6–8 weeks  
 * **Goal**: Gain Linux system administration skills essential for cloud, DevOps, and security roles.  
 * **Topics:**  
@@ -189,7 +205,7 @@
   - Practice labs (VirtualBox, VMware, or cloud VM)  
   - Exam practice guides & dumps (ExamTopics, GitHub labs)  
 
-## [Docker – Containers](https://docs.docker.com/)
+## #[Docker – Containers](https://docs.docker.com/)
 * **Duration**: 3–4 weeks  
 * **Goal**: Learn containerization concepts, build and deploy apps with Docker.  
 * **Topics:**  
@@ -206,7 +222,7 @@
   - Udemy: Bret Fisher’s Docker Mastery course  
   - YouTube: TechWorld with Nana  
 
-## [Kubernetes – CKAD / Hands-on AKS/EKS/GKE](https://kubernetes.io/docs/)
+## #[Kubernetes – CKAD / Hands-on AKS/EKS/GKE](https://kubernetes.io/docs/)
 * **Duration**: 6–8 weeks  
 * **Goal**: Learn container orchestration to deploy, scale, and manage apps in Kubernetes.  
 * **Topics:**  
@@ -224,7 +240,7 @@
   - Udemy: Mumshad Mannambeth’s CKAD/CKA course  
   - Killer.sh CKAD practice exams  
 
-## [Terraform / Ansible – Infrastructure as Code (IaC)](https://developer.hashicorp.com/terraform/learn)
+## #[Terraform / Ansible – Infrastructure as Code (IaC)](https://developer.hashicorp.com/terraform/learn)
 * **Duration**: 6–7 weeks  
 * **Goal**: Learn automation and infrastructure provisioning using IaC tools.  
 * **Topics:**  
@@ -239,7 +255,7 @@
   - Udemy: KodeKloud Terraform & Ansible courses  
   - Hands-on labs with cloud free tiers  
 
-## [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+## #[AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 * **Duration**: 8–10 weeks  
 * **Goal**: Gain foundational AWS cloud architecture knowledge for multi-cloud expertise.  
 * **Topics:**  
@@ -255,22 +271,6 @@
   - Udemy: Stephane Maarek’s AWS Solutions Architect course  
   - Tutorials Dojo practice exams  
   - AWS Free Tier labs  
-
-## [Associate Google Workspace Administrator](https://cloud.google.com/certification/workspace-administrator)
- * **Duration**: 4–6 weeks
- * **Goal**: Manage and secure Google Workspace users, services, and settings for efficient collaboration
- * **Topics:**
-   - Manage users, groups, and organizational units (OUs)
-   - Configure access and security settings (2SV, SSO, trusted apps)
-   - Monitor and manage Google Workspace services (Gmail, Drive, Meet, Calendar)
-   - Configure and manage domain settings, routing, and compliance tools
-   - Use the Admin console and Google Workspace CLI for automation
- * **Resources:**
-   - Google: [Certification Guide – Workspace Admin](https://cloud.google.com/certification/workspace-administrator)
-   - Google: [Google Workspace Admin Help Center](https://support.google.com/a/)
-   - Coursera: [Google Workspace Admin Fundamentals](https://www.coursera.org/learn/manage-google-workspace)
-   - YouTube: Google Workspace YouTube Channel, Saas with Servo, Steve Larsen
-   - Practice Tests: Udemy, Whizlabs, SkillCertPro
 
 ---
 
