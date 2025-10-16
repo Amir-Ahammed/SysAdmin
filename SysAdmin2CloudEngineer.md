@@ -20,7 +20,17 @@
 * Manage our Mac, Windows endpoints through MDM solutions globally. (Intune & Jamf).  
 * Support use of business operational systems including Azure, O365, Slack, Zoom, Okta, Jira, Confluence (Atlassian).  
 * Experience of Mobile Device Management (MDM) ideally with Microsoft Intune and Jamf.  
-* 
+
+## 
+* Strong expertise in operating systems (Windows Server, Linux, or UNIX) and virtualization platforms (VMware, Hyper-V).
+* Proficiency in cloud platforms such as AWS, Azure, or Google Cloud, including infrastructure automation tools (Terraform, Ansible, etc.).
+* Solid understanding of networking (LAN/WAN, firewalls, VPN, DNS, routing) and security protocols.
+* Experience with containerization technologies (Docker, Kubernetes) is highly desirable.
+* Excellent troubleshooting, analytical, and documentation skills.
+* Proven ability to manage multiple projects, prioritize tasks, and meet deadlines in a fast-paced environment.
+* Strong communication and leadership skills with experience mentoring technical teams.
+* Relevant certifications such as AWS Certified Solutions Architect, Microsoft Certified: Azure Administrator, or VMware Certified Professional are preferred.
+
 
 ## Staff System Engineer |  (Augmedix)
 
