@@ -1,6 +1,23 @@
 # 🧰 System Engineer Skills Matrix (2025 Edition)
 
 A comprehensive roadmap tailored for Amir’s career goals in cloud security and system engineering.
+# 🧰 System Engineer Skills Matrix (2025 Edition)
+
+| Category                     | Tools                                                  | Time to Learn | Certification                                      | Skill Gain                                                  |
+|-----------------------------|--------------------------------------------------------|---------------|---------------------------------------------------|--------------------------------------------------------------|
+| Endpoint Management         | Intune, Jamf                                           | 2–3 months    | MD-102, Jamf Certified Tech                       | MDM, compliance policies, device lifecycle                   |
+| Identity & Access           | Entra ID, Active Directory, GPO                        | 2–3 months    | SC-300, MCSA (legacy)                             | IAM, SSO, conditional access, policy enforcement             |
+| Cloud Platforms             | AWS, Azure                                             | 4–6 months    | AWS SysOps, Azure Administrator (AZ-104)          | EC2, S3, IAM, VPC, Azure AD, VM, Blob                        |
+| Operating Systems           | macOS, iOS, Windows, Linux, Android, ChromeOS         | 3–4 months    | CompTIA Linux+, LPIC-1, RHCSA                     | OS deployment, patching, troubleshooting, shell usage        |
+| Containerization & Orchestration | Docker, Kubernetes                              | 3–4 months    | CKA (Certified Kubernetes Administrator)          | Container lifecycle, orchestration, scaling, networking      |
+| Infrastructure as Code      | Terraform, Ansible                                     | 2–3 months    | HashiCorp Terraform Associate, Red Hat Ansible    | IaC, provisioning, automation, config drift detection        |
+| Monitoring & Visualization  | Grafana, Prometheus, ELK Stack                         | 2–3 months    | Hands-on labs                                     | Metrics, alerting, log aggregation, dashboards               |
+| Networking                  | Wireshark, pfSense                                     | 2–3 months    | CompTIA Network+, Cisco CCNA                      | TCP/IP, DNS, DHCP, VPN, firewall rules, packet analysis      |
+| Automation & Scripting      | PowerShell, Bash, Python                               | 3–6 months    | Microsoft PowerShell, Python PCAP                 | Task automation, scripting, API integration                  |
+| Virtualization & Backup     | VMware ESXi, Veeam Backup                              | 2–3 months    | VMware VCP-DCV, Veeam VMCE                        | VM provisioning, snapshots, backup/restore, HA               |
+| Productivity Suites         | Microsoft 365, Google Workspace                        | 1–2 months    | MS-900, Google Workspace Admin                    | Admin console, user provisioning, license management         |
+| Collaboration               | Slack, Zoom                                            | 1 month       | None                                              | Integration, notifications, workspace management             |
+
 
 ## ✅ Core Technical Domains
 
