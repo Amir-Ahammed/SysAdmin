@@ -1,7 +1,5 @@
 # 🧰 System Engineer Skills Matrix (2025 Edition)
-
 A comprehensive roadmap tailored for Amir’s career goals in cloud security and system engineering.
-# 🧰 System Engineer Skills Matrix (2025 Edition)
 
 | Category                     | Tools                                                  | Time to Learn | Certification                                      | Skill Gain                                                  |
 |-----------------------------|--------------------------------------------------------|---------------|---------------------------------------------------|--------------------------------------------------------------|
