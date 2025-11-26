@@ -103,7 +103,34 @@
 
 ---
 
+### Core Skills:
+1. Windows Server administration (AD, Group Policy, DNS, DHCP)
+2. Linux administration (Ubuntu, CentOS, RHEL)
+3. Networking Fundamentals - TCP/IP, subnets, routing basics, DNS, DHCP, NAT, VPNs, Firewalls and load balancers, Network troubleshooting
+4. Virtualization - VMware ESXi / vSphere, Hyper-V, Docker, Kubernetes
+5. Cloud Platforms - AWS / Azure / GCP basics, IAM (permissions, roles, policies), Cloud networking, Compute (EC2, Azure VM), Storage (S3, Blob, Buckets), Monitoring + Cost management
+6. Automation & Scripting - PowerShell, Bash scripting, Basic Python, IaC (Terraform/Ansible)
+7. System Monitoring - Nagios, Grafana, Zabbix, CloudWatch
+8. Security Fundamentals - Identity management basics, Patch management,  Endpoint security concepts, Backup and recovery policies
+9. Storage & Backup - RAID concepts, SAN/NAS basics, Backup solutions (Veeam, Commvault, native cloud backup)
+
+
 #  Training & Certifications: <a name="training_&_certifications"></a>
+
+## #[MS-102 – Microsoft 365 Administrator Expert](https://github.com/Amir-Ahammed/MS-102-Microsoft-365-Administrator-Expert) (Can be Skipped)
+  * **Duration**: 6–8 weeks
+  * **Goal**: Administer Microsoft 365 tenant, security, compliance, and core services
+  * **Topics:**
+    - Manage identity and access (Entra ID roles and access)
+    - Configure security and threat management (Defender, DLP, eDiscovery)
+    - Manage Microsoft Exchange, Teams, SharePoint, and OneDrive
+    - Microsoft 365 tenant configuration and governance
+  * **Resources:**
+    - Udemy: [John Christopher](https://www.udemy.com/topic/microsoft-ms-102/?srsltid=AfmBOorCnmdi0n06EJv41cwmLhDe_YK9ZG_rgNb7-ad9WpMP6cOa9R90)
+    - Microsoft: [Microsoft Learn – MS-102](https://learn.microsoft.com/en-us/credentials/certifications/m365-administrator-expert/)
+    - Microsoft: [Study guide for Exam Ms-102](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-102)
+    - YouTube: Microsoft Mechanics, Andy Malone, or AllThingsTechIE
+    - Practice Tests: MeasureUp, Whizlabs
 
 ## #[MD-102 – Endpoint Administrator Associate](https://github.com/Amir-Ahammed/MD-102-Endpoint-Administrator-Associate)  
   * **Duration**: 4–6 weeks (1st Oct to 31 Oct)
@@ -119,36 +146,6 @@
     - Microsoft: [Study guide for Exam MD-102](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/md-102)
     - YouTube: John Savill's Technical Training or Andro Dunos
     - Practice tests: Whizlabs, MeasureUp  
-     
-## #[SC-300 – Identity and Access Administrator Associate](https://github.com/Amir-Ahammed/SC-300-Identity-and-Access-Administrator-Associate)  
-  * **Duration**: 5–7 weeks (1st Nov to 15 Dec)
-  * **Goal**: Master Azure AD (Entra ID), identity protection, RBAC, and SSO
-  * **Topics:**
-    - Azure AD users, groups, and roles
-    - Conditional Access, MFA, Identity Protection
-    - Enterprise applications, app registrations
-    - Azure AD Connect & hybrid identity   
-  * **Resources:**
-    - Udemy: [John Christopher](https://www.udemy.com/course/sc-300-course-microsoft-identity-and-access-administrator/?couponCode=CP130525)
-    - Microsoft: [Microsoft Learn – SC-300](https://learn.microsoft.com/en-us/certifications/exams/sc-300/)
-    - Microsoft: [Study guide for Exam SC-300](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-300)
-    - Microsoft Security video series
-    - Practice tests: ExamTopics, MeasureUp 
-    
-## #[AZ-104 – Azure Administrator Associate](https://github.com/Amir-Ahammed/AZ-104-Azure-Administrator-Associate)
-  * **Duration**: 6–8 weeks (16 Dec to 28 Feb)
-  * **Goal**: Build infrastructure skills for Azure environments
-  * **Topics:**
-    - Azure VMs, networking, storage accounts
-    - RBAC in Azure, resource monitoring
-    - Azure AD integration, load balancing, VPNs
-    - ARM templates & resource groups   
-  * **Resources:**
-    - Udemy: [John Christopher](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
-    - Microsoft: [Microsoft Learn – AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification)
-    - Microsoft: [Study guide for Exam AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104)
-    - YouTube: *FreeCodeCamp – AZ-104 Full Course* 
-    - Labs: Microsoft Learn Sandbox or Azure Free Account
 
 ## #[AZ-800 – Administering Windows Server Hybrid Core Infrastructure](https://github.com/Amir-Ahammed/AZ-800-Administering-Windows-Server-Hybrid-Core-Infrastructure)
   * **Duration**: 5–7 weeks (1st Mar to 15 Apr)
@@ -166,20 +163,20 @@
     - YouTube: Adam Marczak, Andy Malone, or John Savill
     - Practice Tests: MeasureUp, ExamTopics
 
-## #[MS-102 – Microsoft 365 Administrator Expert](https://github.com/Amir-Ahammed/MS-102-Microsoft-365-Administrator-Expert) (Can be Skipped)
-  * **Duration**: 6–8 weeks
-  * **Goal**: Administer Microsoft 365 tenant, security, compliance, and core services
+## #[AZ-104 – Azure Administrator Associate](https://github.com/Amir-Ahammed/AZ-104-Azure-Administrator-Associate)
+  * **Duration**: 6–8 weeks (16 Dec to 28 Feb)
+  * **Goal**: Build infrastructure skills for Azure environments
   * **Topics:**
-    - Manage identity and access (Entra ID roles and access)
-    - Configure security and threat management (Defender, DLP, eDiscovery)
-    - Manage Microsoft Exchange, Teams, SharePoint, and OneDrive
-    - Microsoft 365 tenant configuration and governance
+    - Azure VMs, networking, storage accounts
+    - RBAC in Azure, resource monitoring
+    - Azure AD integration, load balancing, VPNs
+    - ARM templates & resource groups   
   * **Resources:**
-    - Udemy: [John Christopher](https://www.udemy.com/topic/microsoft-ms-102/?srsltid=AfmBOorCnmdi0n06EJv41cwmLhDe_YK9ZG_rgNb7-ad9WpMP6cOa9R90)
-    - Microsoft: [Microsoft Learn – MS-102](https://learn.microsoft.com/en-us/credentials/certifications/m365-administrator-expert/)
-    - Microsoft: [Study guide for Exam Ms-102](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-102)
-    - YouTube: Microsoft Mechanics, Andy Malone, or AllThingsTechIE
-    - Practice Tests: MeasureUp, Whizlabs
+    - Udemy: [John Christopher](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
+    - Microsoft: [Microsoft Learn – AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification)
+    - Microsoft: [Study guide for Exam AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104)
+    - YouTube: *FreeCodeCamp – AZ-104 Full Course* 
+    - Labs: Microsoft Learn Sandbox or Azure Free Account
 
 ## #[Associate Google Workspace Administrator](https://cloud.google.com/certification/workspace-administrator) (Can be Skipped)
   * **Duration**: 4–6 weeks
@@ -282,23 +279,6 @@
   - Tutorials Dojo practice exams  
   - AWS Free Tier labs  
 
-## #[AWS Certified SysOps Administrator – Associate](https://aws.amazon.com/certification/certified-sysops-administrator-associate/)
-* **Duration**: 8-10 weeks
-* **Goal**: Gain practical knowledge in deploying, managing, and operating scalable, highly available, and fault-tolerant systems on AWS.
-* **Topics:**
-  - Monitoring, metrics, and reporting with CloudWatch
-  - Deployment, provisioning, and automation (CloudFormation, OpsWorks, Elastic Beanstalk)
-  - Managing EC2 instances, EBS, and networking
-  - High availability, scaling, and load balancing
-  - Backup, disaster recovery, and data lifecycle management
-  - Security and compliance (IAM, VPC, security groups)
-  - Logging, CloudTrail, and monitoring best practices
-  - Troubleshooting and incident response on AWS
-* **Resources:**
-  - AWS Training: [Official Certification Page](https://aws.amazon.com/certification/certified-sysops-administrator-associate/)
-  - Udemy: Various SysOps Administrator courses
-  - Tutorials Dojo: Practice exams
-  - AWS Free Tier labs
 
 
 ---
