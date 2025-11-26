@@ -74,7 +74,24 @@
     - YouTube: *FreeCodeCamp – AZ-104 Full Course* 
     - Labs: Microsoft Learn Sandbox or Azure Free Account
 
-### [Associate Google Workspace Administrator](https://cloud.google.com/certification/workspace-administrator) (Can be Skipped)
+### [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+* **Duration**: 8–10 weeks (1 Nov to 31 Dec) 
+* **Goal**: Gain foundational AWS cloud architecture knowledge for multi-cloud expertise.  
+* **Topics:**  
+  - AWS global infrastructure & IAM  
+  - VPC, subnets, security groups, NACLs  
+  - EC2, S3, EBS, EFS, and storage lifecycle policies  
+  - RDS, DynamoDB, and databases  
+  - Load balancing, Auto Scaling, Elastic Beanstalk  
+  - CloudWatch, CloudTrail, and monitoring  
+  - Well-Architected Framework (resilience, cost, security)  
+* **Resources:**  
+  - AWS Training: Official Certification Page  
+  - Udemy: Stephane Maarek’s AWS Solutions Architect course  
+  - Tutorials Dojo practice exams  
+  - AWS Free Tier labs  
+
+### [Google Workspace Administrator](https://cloud.google.com/certification/workspace-administrator)
   * **Duration**: 4–6 weeks
  * **Goal**: Manage and secure Google Workspace users, services, and settings for efficient collaboration
  * **Topics:**
@@ -157,22 +174,5 @@
   - Ansible Docs: [Ansible Documentation](https://docs.ansible.com/)  
   - Udemy: KodeKloud Terraform & Ansible courses  
   - Hands-on labs with cloud free tiers  
-
-### [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-* **Duration**: 8–10 weeks (1 Nov to 31 Dec) 
-* **Goal**: Gain foundational AWS cloud architecture knowledge for multi-cloud expertise.  
-* **Topics:**  
-  - AWS global infrastructure & IAM  
-  - VPC, subnets, security groups, NACLs  
-  - EC2, S3, EBS, EFS, and storage lifecycle policies  
-  - RDS, DynamoDB, and databases  
-  - Load balancing, Auto Scaling, Elastic Beanstalk  
-  - CloudWatch, CloudTrail, and monitoring  
-  - Well-Architected Framework (resilience, cost, security)  
-* **Resources:**  
-  - AWS Training: Official Certification Page  
-  - Udemy: Stephane Maarek’s AWS Solutions Architect course  
-  - Tutorials Dojo practice exams  
-  - AWS Free Tier labs  
 
   
