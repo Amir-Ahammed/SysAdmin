@@ -104,15 +104,15 @@
 ---
 
 ### Core Skills:
-1. Windows Server administration (AD, Group Policy, DNS, DHCP)
-2. Linux administration (Ubuntu, CentOS, RHEL)
-3. Networking Fundamentals - TCP/IP, subnets, routing basics, DNS, DHCP, NAT, VPNs, Firewalls and load balancers, Network troubleshooting
-4. Virtualization - VMware ESXi / vSphere, Hyper-V, Docker, Kubernetes
-5. Cloud Platforms - AWS / Azure / GCP basics, IAM (permissions, roles, policies), Cloud networking, Compute (EC2, Azure VM), Storage (S3, Blob, Buckets), Monitoring + Cost management
-6. Automation & Scripting - PowerShell, Bash scripting, Basic Python, IaC (Terraform/Ansible)
-7. System Monitoring - Nagios, Grafana, Zabbix, CloudWatch
-8. Security Fundamentals - Identity management basics, Patch management,  Endpoint security concepts, Backup and recovery policies
-9. Storage & Backup - RAID concepts, SAN/NAS basics, Backup solutions (Veeam, Commvault, native cloud backup)
+1. **Windows Server administration** - (AD, Group Policy, DNS, DHCP)
+2. **Linux System Administration** - (Ubuntu, CentOS, RHEL)  
+3. **Networking Fundamentals** - TCP/IP, subnets, routing basics, DNS, DHCP, NAT, VPNs, Firewalls and load balancers, Network troubleshooting
+4. **Virtualization** - VMware ESXi / vSphere, Hyper-V, Docker, Kubernetes
+5. **Cloud Platforms** - AWS / Azure / GCP basics, IAM (permissions, roles, policies), Cloud networking, Compute (EC2, Azure VM), Storage (S3, Blob, Buckets), Monitoring + Cost management
+6. **Automation & Scripting** - PowerShell, Bash scripting, Basic Python, IaC (Terraform/Ansible)
+7. **System Monitoring** - Nagios, Grafana, Zabbix, CloudWatch
+8. **Security Fundamentals** - Identity management basics, Patch management,  Endpoint security concepts, Backup and recovery policies
+9. **Storage & Backup** - RAID concepts, SAN/NAS basics, Backup solutions (Veeam, Commvault, native cloud backup)
 
 
 #  Training & Certifications: <a name="training_&_certifications"></a>
