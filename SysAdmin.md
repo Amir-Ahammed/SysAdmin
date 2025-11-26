@@ -13,7 +13,7 @@
 
 ##  Training & Certifications: <a name="training_&_certifications"></a>
 
-### [MS-102 – Microsoft 365 Administrator Expert](https://github.com/Amir-Ahammed/MS-102-Microsoft-365-Administrator-Expert) (Can be Skipped)
+### [MS-102 – Microsoft 365 Administrator Expert](https://github.com/Amir-Ahammed/MS-102-Microsoft-365-Administrator-Expert)
   * **Duration**: 6–8 weeks
   * **Goal**: Administer Microsoft 365 tenant, security, compliance, and core services
   * **Topics:**
